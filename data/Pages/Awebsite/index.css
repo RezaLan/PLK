@@ -1,0 +1,46 @@
+body {
+    background: rgb(179, 0, 255);
+    background: linear-gradient(90deg, rgba(179, 0, 255, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(0, 212, 255, 1) 100%);
+    color     : rgb(0, 0, 0);
+}
+
+#card {
+    background-color: aqua;
+    border-radius   : 5px;
+    width           : 60%;
+    transform       : translate(30%, 15%);
+    height          : fit-content;
+    font-family     : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size       : x-large;
+}
+
+#back {
+    width           : 100px;
+    height          : 50px;
+    font-family     : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size       : x-large;
+    border-radius   : 5px;
+    border          : solid 3px black;
+    background-color: transparent;
+    color           : white;
+
+}
+
+#back:hover {
+    color: rgb(9, 238, 78);
+}
+
+#h {
+    color      : black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size  : xxx-large;
+    height     : fit-content;
+    text-align : center;
+}
+
+#image {
+    display     : block;
+    margin-left : auto;
+    margin-right: auto;
+    width       : 80%;
+}
