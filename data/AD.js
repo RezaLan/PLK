@@ -1,3 +1,3 @@
 function B1(){
-    window.location.pathname="../../../index.html"
+    window.location.pathname="../index.html"
 }

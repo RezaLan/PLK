@@ -130,8 +130,8 @@ function B6() {
   document.getElementById("p2").innerText = "Release Date: 1972";
 }
 function ADB(){
-  window.location.pathname="data/Pages/Adeveloper/index.html";
+  window.location.pathname="data/AD.html";
 }
 function AWB(){
-  window.location.pathname="data/Pages/Awebsite/index.html";
+  window.location.pathname="data/AW.html";
 }
